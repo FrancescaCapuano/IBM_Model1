@@ -26,7 +26,7 @@ best alignments, one sentence per line, in the format index(target word)-
 index(source word). Positions are 0-indexed, the NULL alignment is not
 specified.
 
-<sub>NOTE: In running the model, we assumed a translation from English to French.
+	<sub>NOTE: In running the model, we assumed a translation from English to French.
 Presumably, the gold manual alignment did not assume any direction of
 translation, so that doesn’t make a real difference since we will just compare
 the alignments.</sub>
